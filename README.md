@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am full-stack & Blockchain Developer
+I am Backend & Blockchain Developer
 
 <!--
 **redapple961129/redapple961129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
