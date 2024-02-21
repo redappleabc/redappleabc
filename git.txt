@@ -1,0 +1,2 @@
+otpauth://totp/GitHub:redappleabc?secret=VGQC3U6VG66T4NXP&issuer=GitHub
+otpauth://totp/GitHub:redappleabc?secret=QXARKMD2WF23VCZG&issuer=GitHub
