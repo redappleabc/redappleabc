@@ -1,0 +1,19 @@
+Two-Factor Authentication Backup Codes
+Workspace: Unknown Workspace - https://link-u.slack.com/
+
+Email: undefined
+
+897746428
+230243337
+361891451
+851552429
+931011902
+146766442
+648345077
+279109271
+824253939
+339436146
+
+
+otpauth://totp/Slack:kentaro.okura%40link-u.co.jp?secret=5MPVVU5YPVRW36G674HJDYJOYOPXMCN5&issuer=Slack
+otpauth://totp/Slack:kentaro.okura%40link-u.co.jp?secret=TUT3M5QGXM54BABQ24LP7HVT7G7ZZYZW&issuer=Slack
