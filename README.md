@@ -4,7 +4,7 @@
 ​
 <div>
   <p>
-    I'm a passionate Blockchain Developer and FullStack developer. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
+    I am a dedicated Blockchain Developer and Full Stack Developer with a strong passion for working on cutting-edge projects. I thrive in dynamic environments and am skilled at leading teams to deliver exceptional results. My expertise spans across blockchain technology and full-stack development, allowing me to drive innovation and build scalable, efficient solutions.
   </p>
   
   <img alt='coding' align='right' height='300' src="./assests/images/coding.gif" />
