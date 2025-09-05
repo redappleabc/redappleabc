@@ -1,1 +1,1 @@
-This is senior full stack & blockchain engineer.
+This is senior full stack engineer.
